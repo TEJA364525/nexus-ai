@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Logo.svg" width="200"/>
+</p>
 # 🚀 Teja SUPER-AI — (NEXUS AI)
 
 Teja SUPER-AI is an advanced personal AI system designed by **Dasari Teja**, built entirely using Python.  
