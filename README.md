@@ -1,4 +1,4 @@
-# 🚀 Teja SUPER-AI — Ultra Gold (NEXUS AI)
+# 🚀 Teja SUPER-AI — (NEXUS AI)
 
 Teja SUPER-AI is an advanced personal AI system designed by **Dasari Teja**, built entirely using Python.  
 It supports multiple intelligent modes for real-world usage.
